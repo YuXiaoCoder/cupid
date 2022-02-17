@@ -1,0 +1,20 @@
+basic:
+  debug: false
+
+logger:
+  level: "info"
+  directory: "./logs"
+  rotation_time: 24
+  rotation_count: 7
+
+sniff:
+  regions: ["四川省", "直辖市-重庆市"]
+
+ym:
+  token: ""
+  seckill_id: "1276"
+  linkman_id: "18552351"
+  linkman_id_card: "510125199801116024"
+
+zmyy:
+  cookie: ""

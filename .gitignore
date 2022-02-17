@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.swp
+*.json
+.idea
+configs/debug.yaml
+output
